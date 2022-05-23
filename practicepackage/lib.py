@@ -1,2 +1,2 @@
-def hello_world():
-    return "Hello world from mlproject"
+def my_package():
+    return "パッケージをダウンロードしてくれてありがとうね"
